@@ -1,6 +1,5 @@
 # ShisanshuiGame
-![](https://img.shields.io/badge/language-html&python-orange.svg)
-[![github](https://img.shields.io/badge/code quality-A-brightgreen.svg)](https://codeclimate.com/github/South1999/ShisanshuiGame)
+![](https://img.shields.io/badge/language-html&python-orange.svg) ![](https://img.shields.io/badge/code quality-A-brightgreen.svg)](https://codeclimate.com/github/South1999/ShisanshuiGame)
 
 # 运行环境
 操作系统：windows；python版本：3.7；需要额外安装itertools，和flask库
